@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+thrift
+sasl
+thrift_sasl
+pyhive
+

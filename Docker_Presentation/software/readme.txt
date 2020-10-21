@@ -1,0 +1,1 @@
+Cartella con vertica community edition 9.3.1
